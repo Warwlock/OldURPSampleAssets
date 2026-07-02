@@ -6,3 +6,5 @@ Install
 ---
 
 - You can clone with git into the Assets folder or you can download the zip file and unpack into the Assets folder.
+
+![](https://raw.githubusercontent.com/Warwlock/OldURPSampleAssets/refs/heads/main/ExampleAssets/Screenshots/Screenshot.png)
